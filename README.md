@@ -1,3 +1,3 @@
 Coaches
 
-[our intro] (introduction.md)
+[our intro](introduction.md)
